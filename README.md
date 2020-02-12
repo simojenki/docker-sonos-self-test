@@ -1,0 +1,1 @@
+# docker-sonos-self-test
